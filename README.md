@@ -2,6 +2,10 @@
 
 [RouterJs](http://haithembelhaj.github.com/RouterJs/) is a simple router for your ajax web apps. It's build upon [History.js](https://github.com/balupton/History.js/) which means that RouterJs supports the HTML5 History Api with a fragment fallback for HTML4 browsers. Highly inspired by the Backbone Router it also supports passing parameters with `:param` and splat parts with `*splat`
 
+# Forked
+
+to support AMD, but it has quite many dependencies. Hate that.
+
 #Usage
 
 	//Instanciate the router
